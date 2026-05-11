@@ -1,17 +1,22 @@
 # 👋 Hi there! I'm Ayush Sharma
-👨‍💻 **Data Enthusiast | Aspiring Data Scientist | Kaggler | ML Paper Publisher**
+👨‍💻 **Data Enthusiast | Applied Data Scientist @ Dunnhumby | Kaggler | ML Paper Publisher**
 
 ---
 ## 🚀 About Me
-I'm a data enthusiast passionate about transitioning into data science to be at the forefront of AI advancements. I thrive on exploring innovative projects and delivering impactful solutions.
+I'm a data enthusiast passionate about solving problems with a set of strong techincal skills. I thrive on exploring innovative projects and delivering impactful solutions.
+Currently, on a journey to advance my thinking further in terms of identiifying opportunities, gaps and converting them into scalable and reliable solutions that drive business impact.
 
  **By the way, if you like my work and the passion with which I have made them, would love to work with you.**
 
 ---
 ## 🛠️ My Tech Stack
-- **Languages**: Python 🐍 | SQL 📊  
+- **Languages**: Python 🐍 | SQL 📊
 
-- **Predictive Analytics**: Statistical Analysis 📈 | Machine Learning 🤖 | Deep Learning 🧠 | Time-Series Analysis ⏳ | Natural Language Processing(NLP) 🗣️| Recommendation Systems (Basic) 🎯  
+- **Big Data**: Pyspark
+
+- **Predictive Analytics**: Statistical Analysis 📈 | Machine Learning 🤖 | Deep Learning 🧠 | Time-Series Analysis ⏳
+
+- **Marketing Analytics**: Customer Segmentation, Campaign Targeting, Incrementality Measurement, Marketing Mix Modelling (MMM), ROI / Marketing Effectiveness
 
 - **Data Analysis & Visualization**: Power BI 📊 | Excel 📗  
 
@@ -19,19 +24,15 @@ I'm a data enthusiast passionate about transitioning into data science to be at 
 
 - **Version Control**: Git & GitHub 🛠️  
 
-- **Deployment Tools**: Docker 🐳 | AWS ☁️ | GitHub Actions 🛠️  
-
 - **Libraries & Frameworks**:  
     - *Data Manipulation and Visualization*: 🐼 Pandas | 📊 NumPy | 📉 Matplotlib | 🎨 Seaborn
     - *Machine Leanring & Deep Learning*: 🤖 Scikit-Learn | 🔥 TensorFlow | 🤝 Keras  
     - *Statistcs*: 📚 SciPy  
-    - *NLP*: 📖 SpaCy | 🗣️ NLTK  
-    - *Recommendation Systems*: 🎯 Surprise  
 
 ---
 ## 🌱 I Am Currently Learning  
-🌟 **Natural Language Processing(NLP)**  
-🌟 **Big Data Technologies** 
+🌟 **Bayesian Machine learning with A/B testing in python**  
+🌟 **Trying to start my journey in generative AI from scratch** 
 
 ---
 
