@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Ayush Sharma
-👨‍💻 **Data Enthusiast | Applied Data Scientist @ Dunnhumby | Kaggler | ML Paper Publisher**
+👨‍💻 **Data Enthusiast | Senior Applied Data Scientist @ Dunnhumby | Kaggler | ML Paper Publisher**
 
 ---
 ## 🚀 About Me
